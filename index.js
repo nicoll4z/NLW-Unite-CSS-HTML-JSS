@@ -85,6 +85,18 @@ let participantes =
     email: "ana@gmail.com",
     dataInscricao: new Date(2024, 0, 3, 19, 23),
     dataCheckIn: null
+  },
+  {
+    nome: "Diego Fernandes",
+    email: "diego@gmail.com",
+    dataInscricao: new Date(2024, 2, 1, 19, 23),
+    dataCheckIn: new Date(2024, 2, 1, 20, 20)
+  },
+  {
+    nome: "Diego Fernandes",
+    email: "diego@gmail.com",
+    dataInscricao: new Date(2024, 2, 1, 19, 23),
+    dataCheckIn: new Date(2024, 2, 1, 20, 20)
   }
 ];
 

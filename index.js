@@ -61,6 +61,30 @@ let participantes =
     email: "gabriel@gmail.com",
     dataInscricao: new Date(2023, 5, 10, 19, 23),
     dataCheckIn: new Date(2023, 5, 11, 20, 20)
+  },
+  {
+    nome: "Ana Souza",
+    email: "ana@gmail.com",
+    dataInscricao: new Date(2024, 0, 3, 19, 23),
+    dataCheckIn: null
+  },
+  {
+    nome: "Ana Souza",
+    email: "ana@gmail.com",
+    dataInscricao: new Date(2024, 0, 3, 19, 23),
+    dataCheckIn: null
+  },
+  {
+    nome: "Ana Souza",
+    email: "ana@gmail.com",
+    dataInscricao: new Date(2024, 0, 3, 19, 23),
+    dataCheckIn: null
+  },
+  {
+    nome: "Ana Souza",
+    email: "ana@gmail.com",
+    dataInscricao: new Date(2024, 0, 3, 19, 23),
+    dataCheckIn: null
   }
 ];
 
